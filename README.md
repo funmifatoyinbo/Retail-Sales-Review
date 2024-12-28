@@ -1,4 +1,4 @@
-# Retail-Sales-Review
+# RETAIL SALES REVIEW 
 
 TABLE OF CONTENT 
 - [project overview](#project-overview)
