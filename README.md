@@ -1,15 +1,15 @@
 # Retail-Sales-Review
 
 TABLE OF CONTENT 
-- [Project overview](Project-overview)
-- [data sources](data-sources)
-- [tools](tools)
-- [data cleaning/preparation](data-cleaning/preparation)
-- [expository data analysis](expository-data-analysis)
-- [data analysis](data-analysis)
-- [findings](findings)
-- [recommendations](recommendations)
-- [reference](reference)
+- [Project overview](#Project-overview)
+- [data sources](#data-sources)
+- [tools](#tools)
+- [data cleaning/preparation](#data-cleaning/preparation)
+- [expository data analysis](#expository-data-analysis)
+- [data analysis](#data-analysis)
+- [findings](#findings)
+- [recommendations](#recommendations)
+- [reference](#reference)
 
 ## Project Overview 
 This data analysis project aim to provide insight into the sales performance of an online retail store over the past years. having customers from different countries around the world.
