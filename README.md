@@ -70,9 +70,9 @@ And sales dropped down from the beginning of the year January - August and in De
 All values with 0 was removed because it was affecting the accuracy of my conclusions
 
 ## Reference 
-A Comprehensive Guide To The Grammar Of Graphics For Effective Visualization Of Multi- Dimensional Data
+[A Comprehensive Guide To The Grammar Of Graphics For Effective Visualization Of Multi- Dimensional Data](https://djsarkar.medium.com/?source=post_page---byline--1f92b4ed4149--------------------------------)
 
-[Dipanjan (DJ) Sarkar](https://djsarkar.medium.com/?source=post_page---byline--1f92b4ed4149--------------------------------)
+[How to choose the Right Chart for Data Visualization](https://www.analyticsvidhya.com/blog/author/harshit_ahluwalia/)
 
 🫧 😙 👍👍
 
