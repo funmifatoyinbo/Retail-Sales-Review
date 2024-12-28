@@ -11,14 +11,14 @@ TABLE OF CONTENT
 - [recommendations](recommendations)
 - [reference](reference)
 
-## PROJECT OVERVIEW 
+## Project Overview 
 This data analysis project aim to provide insight into the sales performance of an online retail store over the past years. having customers from different countries around the world.
 
 By analyzing various aspects of the sales data, we seek to identify trend, sales data-driven recommendations, and gain deeper understanding of the company's sales performance.
 
 My client also aim to get an insight on a profitable location to expand his business..
 
-## DATA SOURCES 
+## Data Sources 
 the primary dataset used for this analysis is 
 Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).
 (https://archive.ics.uci.edu/ml/about.html)
@@ -33,29 +33,22 @@ Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).
 And  unit price shouldn't be below $0
 - We also cleaned the negative quantity which was inputted in error.
 
-## EXPOSITORY DATA ANALYSIS 
+## Expository Data Analysis 
 this EDA involved in exploring the data and finding answers to the questions you ask.
 
 - What quantity is often restock?
-
 - What item generate the highest profit.
-
 - Which country purchases this item the most
-
 - What time,date do they purchase the most.
-
 - Who are the people buying these items?
-
 - How do they make purchase.
-
 - Investing on the item with the highest sales bring more profit?
-
 - When can the company invest and expand there business?
 
-## Data analysis 
+## Data Analysis 
 Because it's a big data, I just went ahead to use suitable chart in tableau to  create a report.
 
-## FINDINGS 
+## Findings
 - I discovered that from September - December in 2011 the company made their highest sales
 And sales dropped down from the beginning of the year January - August and in December the company also  faced with sales dropped down.
 
