@@ -1,10 +1,10 @@
 # Retail-Sales-Review
 
 TABLE OF CONTENT 
-- [Project overview](#Project-overview)
+- [project overview](#project-overview)
 - [data sources](#data-sources)
 - [tools](#tools)
-- [data cleaning/preparation](#data-cleaning/preparation)
+- [data preparation](#data-preparation)
 - [expository data analysis](#expository-data-analysis)
 - [data analysis](#data-analysis)
 - [findings](#findings)
@@ -27,7 +27,7 @@ Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).
 - Excel - this is use for data cleaning 
 - Tableau - this is use for data analysis, creating a report and visuals.
 
-## data cleaning/preparation 
+## data preparation 
 - Data loading and inspection 
 - Using conditional formula to create a check in making sure numbers in quantity shouldn't be below 1
 And  unit price shouldn't be below $0
