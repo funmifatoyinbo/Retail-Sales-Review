@@ -1,4 +1,4 @@
-# RETAIL SALES REVIEW 
+# Empowering Business With Effective Insight
 
 TABLE OF CONTENT 
 - [project overview](#project-overview)
