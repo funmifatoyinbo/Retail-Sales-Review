@@ -14,7 +14,9 @@ TABLE OF CONTENT
 ## Project Overview 
 This data analysis project aim to provide insight into the sales performance of an online retail store over the past years. having customers from different countries around the world.
 
-By analyzing various aspects of the sales data, we seek to identify trend, sales data-driven recommendations, and gain deeper understanding of the company's sales performance.
+I was hired as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
+
+this was done by analyzing various aspects of the sales data, we seek to identify trend, sales data-driven recommendations, and gain deeper understanding of the company's sales performance.
 
 My client also aim to get an insight on a profitable location to expand his business..
 
